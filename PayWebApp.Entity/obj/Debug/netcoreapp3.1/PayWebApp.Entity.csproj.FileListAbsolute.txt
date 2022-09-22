@@ -1,0 +1,9 @@
+C:\Users\BS2511\source\repos\PayWebApp.Entity\bin\Debug\netcoreapp3.1\PayWebApp.Entity.deps.json
+C:\Users\BS2511\source\repos\PayWebApp.Entity\bin\Debug\netcoreapp3.1\PayWebApp.Entity.dll
+C:\Users\BS2511\source\repos\PayWebApp.Entity\bin\Debug\netcoreapp3.1\PayWebApp.Entity.pdb
+C:\Users\BS2511\source\repos\PayWebApp.Entity\obj\Debug\netcoreapp3.1\PayWebApp.Entity.csprojAssemblyReference.cache
+C:\Users\BS2511\source\repos\PayWebApp.Entity\obj\Debug\netcoreapp3.1\PayWebApp.Entity.AssemblyInfoInputs.cache
+C:\Users\BS2511\source\repos\PayWebApp.Entity\obj\Debug\netcoreapp3.1\PayWebApp.Entity.AssemblyInfo.cs
+C:\Users\BS2511\source\repos\PayWebApp.Entity\obj\Debug\netcoreapp3.1\PayWebApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\BS2511\source\repos\PayWebApp.Entity\obj\Debug\netcoreapp3.1\PayWebApp.Entity.dll
+C:\Users\BS2511\source\repos\PayWebApp.Entity\obj\Debug\netcoreapp3.1\PayWebApp.Entity.pdb

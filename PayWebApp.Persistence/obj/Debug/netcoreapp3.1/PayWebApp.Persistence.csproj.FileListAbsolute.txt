@@ -1,0 +1,15 @@
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\bin\Debug\netcoreapp3.1\PayWebApp.Entity.dll
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\obj\Debug\netcoreapp3.1\PayWebApp.Persistence.csprojAssemblyReference.cache
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\obj\Debug\netcoreapp3.1\PayWebApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\obj\Debug\netcoreapp3.1\PayWebApp.Persistence.AssemblyInfo.cs
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\bin\Debug\netcoreapp3.1\PayWebApp.Persistence.deps.json
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\bin\Debug\netcoreapp3.1\PayWebApp.Persistence.runtimeconfig.json
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\bin\Debug\netcoreapp3.1\PayWebApp.Persistence.runtimeconfig.dev.json
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\bin\Debug\netcoreapp3.1\PayWebApp.Persistence.dll
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\bin\Debug\netcoreapp3.1\PayWebApp.Persistence.pdb
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\bin\Debug\netcoreapp3.1\PayWebApp.Entity.pdb
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\obj\Debug\netcoreapp3.1\PayWebApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\obj\Debug\netcoreapp3.1\PayWebApp.Persistence.csproj.CopyComplete
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\obj\Debug\netcoreapp3.1\PayWebApp.Persistence.dll
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\obj\Debug\netcoreapp3.1\PayWebApp.Persistence.pdb
+C:\Users\BS2511\source\repos\PayWebApp.Persistence\obj\Debug\netcoreapp3.1\PayWebApp.Persistence.genruntimeconfig.cache

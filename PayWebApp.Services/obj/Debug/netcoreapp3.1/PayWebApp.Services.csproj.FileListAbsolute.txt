@@ -1,0 +1,14 @@
+C:\Users\BS2511\source\repos\PayWebApp.Services\bin\Debug\netcoreapp3.1\PayWebApp.Services.deps.json
+C:\Users\BS2511\source\repos\PayWebApp.Services\bin\Debug\netcoreapp3.1\PayWebApp.Services.dll
+C:\Users\BS2511\source\repos\PayWebApp.Services\bin\Debug\netcoreapp3.1\PayWebApp.Services.pdb
+C:\Users\BS2511\source\repos\PayWebApp.Services\bin\Debug\netcoreapp3.1\PayWebApp.Entity.dll
+C:\Users\BS2511\source\repos\PayWebApp.Services\bin\Debug\netcoreapp3.1\PayWebApp.Persistence.dll
+C:\Users\BS2511\source\repos\PayWebApp.Services\bin\Debug\netcoreapp3.1\PayWebApp.Entity.pdb
+C:\Users\BS2511\source\repos\PayWebApp.Services\bin\Debug\netcoreapp3.1\PayWebApp.Persistence.pdb
+C:\Users\BS2511\source\repos\PayWebApp.Services\obj\Debug\netcoreapp3.1\PayWebApp.Services.csprojAssemblyReference.cache
+C:\Users\BS2511\source\repos\PayWebApp.Services\obj\Debug\netcoreapp3.1\PayWebApp.Services.AssemblyInfoInputs.cache
+C:\Users\BS2511\source\repos\PayWebApp.Services\obj\Debug\netcoreapp3.1\PayWebApp.Services.AssemblyInfo.cs
+C:\Users\BS2511\source\repos\PayWebApp.Services\obj\Debug\netcoreapp3.1\PayWebApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\BS2511\source\repos\PayWebApp.Services\obj\Debug\netcoreapp3.1\PayWebApp.Services.csproj.CopyComplete
+C:\Users\BS2511\source\repos\PayWebApp.Services\obj\Debug\netcoreapp3.1\PayWebApp.Services.dll
+C:\Users\BS2511\source\repos\PayWebApp.Services\obj\Debug\netcoreapp3.1\PayWebApp.Services.pdb
